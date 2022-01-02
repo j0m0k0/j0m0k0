@@ -2,7 +2,7 @@
 
 
 - 👋 Hi, I’m @j0m0k0
-- 👀 I’m interested in Softwares specially Web Apps.
+- 👀 I’m interested in web applications!
 - 🌱 I’m currently learning NodeJS
 - 💞️ I’m looking to collaborate on cool projects
 
