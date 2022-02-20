@@ -2,7 +2,7 @@
 
 
 - 👋 Hi, I’m @j0m0k0
-- 👀 I’m interested in web applications!
+- 👀 I’m a software engineer experienced in web technologies and tools (JS, React.js, Next.js, Material UI, Node.js, Express.js, MongoDB, Relational DBs, Python, Django, HTTP, Socket.io and etc.).
 - 🌱 I’m currently learning Canvas Api
 - 💞️ I’m looking to collaborate on cool projects
 
