@@ -3,6 +3,6 @@
 
 - 👋 Hi, I’m @j0m0k0
 - 👀 I’m interested in web applications!
-- 🌱 I’m currently learning NodeJS
+- 🌱 I’m currently learning Canvas Api
 - 💞️ I’m looking to collaborate on cool projects
 
