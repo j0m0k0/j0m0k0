@@ -16,5 +16,4 @@
   -  HTTP, 
   -  Socket.io
 - 🌱 I’m currently learning Canvas Api
-- 💞️ I’m looking to collaborate on cool projects
 
