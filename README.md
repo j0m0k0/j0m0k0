@@ -15,5 +15,6 @@
   -  Django, 
   -  HTTP, 
   -  Socket.io
-- 🌱 I’m currently learning Canvas Api
+  -  Docker
+- 🌱 I’m currently learning Docker
 
