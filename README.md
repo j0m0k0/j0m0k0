@@ -16,5 +16,5 @@
   -  HTTP, 
   -  Socket.io
   -  Docker
-- 🌱 I’m currently learning Docker
+- 🌱 I’m currently learning WebApp Security
 
