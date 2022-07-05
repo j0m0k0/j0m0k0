@@ -4,9 +4,9 @@
 - 👋 Hi, I’m @j0m0k0
 - 👀 I’m a software engineer experienced in web technologies and tools:
   -  JavaScript (including React.js, Next.js, Material UI, Node.js and Express.js)
-  -  Databases (including MySQL, MongoDB)
   -  Python (including Django)
-  -  HTTP, 
+  -  Database (including MySQL, MongoDB)
+  -  Protocol (including HTTP and SSL), 
   -  Socket.io
   -  Docker
 - 🌱 I’m currently learning WebApp Security
