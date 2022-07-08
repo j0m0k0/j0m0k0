@@ -6,7 +6,7 @@
   -  JavaScript (including React.js, Next.js, Material UI, Node.js and Express.js)
   -  Python (including Django)
   -  Database (including MySQL, MongoDB)
-  -  Protocol (including HTTP and SSL), 
+  -  Protocol (including HTTP 1.1 and SSL), 
   -  Socket.io
   -  Docker
 - 🌱 I’m currently learning WebApp Security
