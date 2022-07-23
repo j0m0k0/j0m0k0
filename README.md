@@ -9,7 +9,7 @@
   - **Protocol** (including HTTP 1.1 and SSL), 
   - **Socket.io**
   - **Docker**
-- 🌱 I’m currently learning **JavaScript (XHR, postMessage, Eval, Iframe)**
+- 🌱 I’m currently learning **JavaScript (DOM, Events, Symbol)**
 
 
 
