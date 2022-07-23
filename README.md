@@ -10,6 +10,8 @@
   - **Protocol** (including HTTP 1.1, SSL (TLS) and Socket.io), 
   - **Docker**
 - 🌱 I’m currently learning **JavaScript (DOM, Events, Symbol)**
-
+- Technical books:
+  - **Javascript, The Good Parts** by Douglas Crockford (Reading)
+  - **The Clean Coder** by Robert C. Martin (Todo)
 
 
