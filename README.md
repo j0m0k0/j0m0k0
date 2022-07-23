@@ -5,7 +5,7 @@
 - I’m a software engineer experienced in web technologies and tools:
   - **JavaScript** (including React.js, Next.js, Node.js and Express.js)
   - **HTML,CSS** (including Material UI, Bootstrap, Component Driven Design, Flexbox)
-  - **Python** (including Django)
+  - **Python** (including Web Scraping, Django)
   - **Database** (including MySQL, MongoDB)
   - **Protocol** (including HTTP 1.1 and SSL), 
   - **Socket.io**
