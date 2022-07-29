@@ -11,7 +11,7 @@
   - **Docker**
 - 🌱 I’m currently learning **JavaScript (DOM, Events, Symbol)**
 - Technical books I enjoyed reading:
-  - **Javascript, The Good Parts** by Douglas Crockford (Reading) - 2022
-  - **The Clean Coder** by Robert C. Martin (Todo) - 2022
+  - **Javascript, The Good Parts** by Douglas Crockford - 2022
+  - **The Clean Coder** by Robert C. Martin (Reading) - 2022
 
 
