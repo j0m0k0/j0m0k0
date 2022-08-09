@@ -9,7 +9,7 @@
   - **Database** (including MySQL and MongoDB)
   - **Protocol** (including HTTP/1.1 and SSL), 
   - **Docker**
-- 🌱 I’m currently learning **JavaScript (DOM, Events, Symbol)**
+- 🌱 I’m currently learning **Linux, Commands, Bash Programming**
 - Technical books I enjoyed reading:
   - **Javascript, The Good Parts** by Douglas Crockford - 2022
   - **The Clean Coder** by Robert C. Martin (Reading) - 2022
