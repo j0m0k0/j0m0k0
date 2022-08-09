@@ -2,7 +2,7 @@
 
 
 - 👋 Hi, I’m @j0m0k0
-- I’m a software engineer experienced in web technologies and tools:
+- I’m a software engineer experienced in these areas:
   - **JavaScript** (including React.js, Next.js, Node.js and Express.js)
   - **HTML,CSS** (including Material UI, Bootstrap, Component Driven Design and Flexbox)
   - **Python** (including Web Scraping and Django)
