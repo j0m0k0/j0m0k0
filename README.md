@@ -7,7 +7,7 @@
   - **HTML,CSS** (including Material UI, Bootstrap, Component Driven Design and Flexbox)
   - **Python** (including Web Scraping and Django)
   - **Database** (including MySQL and MongoDB)
-  - **Protocol** (including HTTP/1.1 and SSL (TLS)), 
+  - **Protocol** (including HTTP/1.1 and SSL), 
   - **Docker**
 - 🌱 I’m currently learning **JavaScript (DOM, Events, Symbol)**
 - Technical books I enjoyed reading:
