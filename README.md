@@ -10,7 +10,7 @@
   - **Protocol** (including HTTP/1.1 and SSL), 
   - **Docker**
   - **Linux** (including Bash Programming and Famous Commands)
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **Flutter**
 - Technical books I enjoyed reading:
   - **Javascript, The Good Parts** by Douglas Crockford - 2022
   - **The Clean Coder** by Robert C. Martin (Reading) - 2022
