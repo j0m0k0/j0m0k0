@@ -11,7 +11,7 @@
   - **Docker**
   - **Linux** (including Bash Programming and Famous Commands)
   - **Flutter** (Multi-platform UI development)
-- 🌱 I’m currently learning **???**
+- 🌱 I’m currently learning **Game Theory**
 - Technical books I enjoyed reading:
   - **Javascript, The Good Parts** by Douglas Crockford - 2022
   - **The Clean Coder** by Robert C. Martin (Reading) - 2022
