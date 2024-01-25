@@ -14,6 +14,7 @@
 - 🌱 I’m currently learning **Game Theory**
 - Technical books I enjoyed reading:
   - **Javascript, The Good Parts** by Douglas Crockford - 2022
-  - **The Clean Coder** by Robert C. Martin (Reading) - 2022
+  - **The Clean Coder** by Robert C. Martin - 2024
+  - **Introduction to Algorithms** by CLRS (Reading)
 
 
