@@ -16,6 +16,8 @@
 - Technical books I enjoyed reading:
   - **Javascript, The Good Parts** by Douglas Crockford - 2022
   - **The Clean Coder** by Robert C. Martin - 2024
-  - **Introduction to Algorithms** by CLRS (Reading)
+  - **Understanding Depp Learning** by Simon J.D. Prince - 2024 (Reading)
+  - **The Jot of Cryptography** by Mike Rosulek - 2024 (Next)
+  - **Introduction to Algorithms** by CLRS (Next)
 
 
