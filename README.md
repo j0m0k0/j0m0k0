@@ -17,7 +17,7 @@
   - **Javascript, The Good Parts** by Douglas Crockford - 2022
   - **The Clean Coder** by Robert C. Martin - 2024
   - **Understanding Depp Learning** by Simon J.D. Prince - 2024 (Reading)
-  - **The Jot of Cryptography** by Mike Rosulek - 2024 (Next)
+  - **The Jot of Cryptography** by Mike Rosulek - 2024 (Reading)
   - **Introduction to Algorithms** by CLRS (Next)
 
 
