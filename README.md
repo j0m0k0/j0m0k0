@@ -1,23 +1,47 @@
 [comment]:![images](https://user-images.githubusercontent.com/93967783/147612772-c380d1c6-698e-4d4c-8fbb-fd5ee6a9e89a.jpeg);
 
 
-- 👋 Hi, I’m @j0m0k0
-- I’m a software engineer experienced in these areas:
-  - **JavaScript** (including React.js, Next.js, Node.js and Express.js)
-  - **HTML,CSS** (including Material UI, Bootstrap, Component Driven Design and Flexbox)
-  - **Python** (including Web Scraping and Django)
-  - **Database** (including MySQL and MongoDB)
-  - **Protocol** (including HTTP/1.1 and SSL), 
-  - **Docker**
-  - **Linux** (including Bash Programming and Famous Commands)
-  - **Flutter** (Multi-platform UI development)
-  - **Machine Learning** (Solving a problem using ML)
-- 🌱 I’m currently learning **Deep Learning**
-- Technical books I enjoyed reading:
-  - **Javascript, The Good Parts** by Douglas Crockford - 2022
-  - **The Clean Coder** by Robert C. Martin - 2024
-  - **Understanding Depp Learning** by Simon J.D. Prince - 2024 (Reading)
-  - **The Jot of Cryptography** by Mike Rosulek - 2024 (Reading)
-  - **Introduction to Algorithms** by CLRS (Next)
+## 👋 Hi, I’m @j0m0k0
 
+### About Me
+I am Javad, a dedicated Graduate Research Assistant at Texas State University and an experienced software developer with a robust background in both frontend and backend development. I earned my Bachelor's degree in Computer Engineering from Bu-Ali University in Hamedan, Iran. My professional journey has spanned continents and disciplines, including over a year as a Senior Software Engineer at Clanz in Australia, where I also led a team of developers.
 
+### Expertise
+- **JavaScript**
+  - React.js, Next.js, Node.js, Express.js
+- **HTML & CSS**
+  - Material UI, Bootstrap, Component-Driven Design, Flexbox
+- **Python**
+  - Web Scraping, Django
+- **Databases**
+  - MySQL, MongoDB
+- **Protocols**
+  - HTTP/1.1, SSL
+- **Docker**
+- **Linux**
+  - Bash Programming, Command Line Proficiency
+- **Flutter**
+  - Multi-platform UI Development
+- **Machine Learning**
+  - Applying ML to solve real-world problems
+
+### Current Learning
+- 🌱 Currently diving into **Deep Learning**
+
+### Professional Experience
+- Graduate Research Assistant at Texas State University
+- Senior Software Engineer at Clanz, Australia (Led a team of developers)
+
+### Education
+- Bachelor's degree in Computer Engineering from Bu-Ali University, Hamedan, Iran
+
+### Technical Books I've Enjoyed
+- **JavaScript: The Good Parts** by Douglas Crockford (2022)
+- **The Clean Coder** by Robert C. Martin (2024)
+- **Understanding Deep Learning** by Simon J.D. Prince (2024) - Currently reading
+- **The Joy of Cryptography** by Mike Rosulek (2024) - Currently reading
+- **Introduction to Algorithms** by Cormen, Leiserson, Rivest, and Stein (Next on my list)
+
+---
+
+Feel free to reach out to me for collaboration or discussions on exciting tech projects!
