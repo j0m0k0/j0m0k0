@@ -1,7 +1,8 @@
 [comment]:![images](https://user-images.githubusercontent.com/93967783/147612772-c380d1c6-698e-4d4c-8fbb-fd5ee6a9e89a.jpeg);
 
 ## 👋 Hi, I’m @j0m0k0
-
+[![Linkedin: Javad Koushyar ](https://img.shields.io/badge/-Javad%20Koushyar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/javad-mokhtari/)](https://www.linkedin.com/in/javad-mokhtari/)
+[![Twitter: Javad Koushyar](https://img.shields.io/twitter/follow/j0m0k0?style=social)](https://twitter.com/j0m0k0)
 ### About Me
 I am Javad, a dedicated Graduate Research Assistant at Texas State University and an experienced software developer with a robust background in both frontend and backend development. I earned my Bachelor's degree in Computer Engineering from Bu-Ali University in Hamedan, Iran. My professional journey has spanned continents and disciplines, including over a year as a Senior Software Engineer at Clanz in Australia, where I also led a team of developers.
 
