@@ -9,15 +9,15 @@ I am Javad, a dedicated Graduate Research Assistant at Texas State University an
 ![Javad's GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=j0m0k0&layout=compact&theme=radical)
 
 ### Expertise
+- **Python** (Data Science, Web Scraping, Django)
+- **Machine Learning / Deep Learning** (Applying ML/DL to solve real-world problems)
 - **JavaScript** (React.js, Next.js, Node.js, Express.js)
 - **HTML & CSS** (Material UI, Bootstrap, Component-Driven Design, Flexbox)
-- **Python** (Web Scraping, Django)
 - **Databases** (MySQL, MongoDB)
 - **Protocols** (HTTP/1.1, SSL)
 - **Virtualization** (Docker)
 - **Linux** (Bash Programming, Command Line Proficiency)
 - **Cross-platform Frameworks** (Flutter)
-- **Machine Learning / Deep Learning** (Applying ML/DL to solve real-world problems)
 
 ### Current Learning
 - 🌱 Currently diving into **Deep Learning**
