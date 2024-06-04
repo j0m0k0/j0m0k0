@@ -11,6 +11,7 @@ I am Javad, a dedicated Graduate Research Assistant at Texas State University an
 ### Expertise
 - **Python** (Data Science, Web Scraping, Django)
 - **Machine Learning / Deep Learning** (Applying ML/DL to solve real-world problems)
+- **Cloud Technologies** (...)
 - **JavaScript** (React.js, Next.js, Node.js, Express.js)
 - **HTML & CSS** (Material UI, Bootstrap, Component-Driven Design, Flexbox)
 - **Databases** (MySQL, MongoDB)
