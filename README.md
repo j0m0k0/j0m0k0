@@ -26,7 +26,8 @@ I am Javad, a dedicated Graduate Research Assistant at Texas State University an
 ### Professional Experience
 - Graduate Research Assistant at Texas State University
 - Senior Software Engineer at Clanz, Australia (Led a team of developers)
-- Senior Front-end Developer at Agape, Namlik
+- Senior Front-end Developer at Namlik
+- Junior Front-end Developer at Namlik
 - Intern at XaaS Cloud Computing
 
 ### Education
