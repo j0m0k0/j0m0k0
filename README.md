@@ -33,11 +33,15 @@ I am Javad, a dedicated Graduate Research Assistant at Texas State University an
 - PhD's degree in Computer Science from Texas State University, Texas, United States (In progress)
 
 ### Technical Books I've Enjoyed
-- **JavaScript: The Good Parts** by Douglas Crockford (2022)
-- **The Clean Coder** by Robert C. Martin (2024)
-- **Understanding Deep Learning** by Simon J.D. Prince (2024)
-- **The Joy of Cryptography** by Mike Rosulek (2024) - Currently reading
-- **Introduction to Algorithms** by Cormen, Leiserson, Rivest, and Stein (Next on my list)
+
+| Book Title                             | Author(s)                               | Year  | Status              |
+|----------------------------------------|-----------------------------------------|-------|---------------------|
+| JavaScript: The Good Parts             | Douglas Crockford                       | 2022  |          ✅         |
+| The Clean Coder                        | Robert C. Martin                        | 2024  |          ✅         |
+| Understanding Deep Learning            | Simon J.D. Prince                       | 2024  |          ✅         |
+| The Joy of Cryptography                | Mike Rosulek                            | 2024  | Currently reading   |
+| Introduction to Algorithms             | Cormen, Leiserson, Rivest, and Stein    | 2024  | Next on my list     |
+
 
 ---
 
