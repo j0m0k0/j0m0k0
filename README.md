@@ -30,6 +30,7 @@ I am Javad, a dedicated Graduate Research Assistant at Texas State University an
 
 ### Education
 - Bachelor's degree in Computer Engineering from Bu-Ali University, Hamedan, Iran
+- PhD's degree in Computer Science from Texas State University, Texas, United States (In progress)
 
 ### Technical Books I've Enjoyed
 - **JavaScript: The Good Parts** by Douglas Crockford (2022)
