@@ -8,6 +8,9 @@ I am Javad, a dedicated Graduate Research Assistant at Texas State University an
 
 ![Javad's GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=j0m0k0&layout=compact&theme=radical)
 
+### Projects
+[PyASPG](https://github.com/j0m0k0/PyASPG): A smart power-grid simulator that can be used to do simulations.
+
 ### Expertise
 - **Python** (Data Science, Web, General Purpose Applications)
 - **Machine Learning / Deep Learning** (Applying ML/DL to solve real-world problems)
