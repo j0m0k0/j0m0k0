@@ -9,7 +9,7 @@ I am Javad, a dedicated Graduate Research Assistant at Texas State University an
 ![Javad's GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=j0m0k0&layout=compact&theme=radical)
 
 ### Expertise
-- **Python** (Data Science, Web Scraping, Django)
+- **Python** (Data Science, Web, General Purpose Applications)
 - **Machine Learning / Deep Learning** (Applying ML/DL to solve real-world problems)
 - **Cloud Technologies** (...)
 - **Web Technologies** (React.js, Next.js, Node.js, Express.js, Material UI, Bootstrap, Component-Driven Design, Flexbox, HTTP/1.1, SSL)
