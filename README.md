@@ -28,8 +28,8 @@ I am Javad, a dedicated Graduate Research Assistant at Texas State University an
 - Intern at XaaS Cloud Computing
 
 ### Education
-- Bachelor's degree in Computer Engineering from Bu-Ali University, Hamedan, Iran
 - PhD's degree in Computer Science from Texas State University, Texas, United States (In progress)
+- Bachelor's degree in Computer Engineering from Bu-Ali University, Hamedan, Iran
 
 ### Technical Books I've Enjoyed
 
