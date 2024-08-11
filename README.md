@@ -24,7 +24,7 @@ I am Javad, a dedicated Graduate Research Assistant at Texas State University an
 - **Cross-platform Frameworks** (Flutter)
 
 ### Current Learning
-- 🌱 Currently diving into **Deep Learning**
+- 🌱 Currently diving into **Cybersecurity**
 
 ### Professional Experience
 - Graduate Research Assistant at Texas State University
