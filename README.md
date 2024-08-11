@@ -36,17 +36,6 @@ I am Javad, a dedicated Graduate Research Assistant at Texas State University an
 - PhD's degree in Computer Science -- from Texas State University, Texas, United States (In progress)
 - Bachelor's degree in Computer Engineering -- from Bu-Ali University, Hamedan, Iran
 
-### Technical Books I've Enjoyed
-
-| Book Title                             | Author(s)                               | Year  | Status              |
-|----------------------------------------|-----------------------------------------|-------|---------------------|
-| JavaScript: The Good Parts             | Douglas Crockford                       | 2022  |          ✅         |
-| The Clean Coder                        | Robert C. Martin                        | 2024  |          ✅         |
-| Understanding Deep Learning            | Simon J.D. Prince                       | 2024  |          ✅         |
-| The Joy of Cryptography                | Mike Rosulek                            | 2024  | Currently reading   |
-| Introduction to Algorithms             | Cormen, Leiserson, Rivest, and Stein    | 2024  | Next on my list     |
-
-
 ---
 
 Feel free to reach out to me for collaboration or discussions on exciting tech projects!
