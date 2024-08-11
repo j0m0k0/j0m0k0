@@ -11,7 +11,7 @@ I am Javad, a dedicated Graduate Research Assistant at Texas State University an
 <img src="https://tryhackme-badges.s3.amazonaws.com/secsea.png" alt="TryHackMe">
 
 ### Projects
-[PyASPG](https://github.com/j0m0k0/PyASPG): An Abstracted Smart Power-Grid Simulator Built with Python
+[PyASPG](https://github.com/j0m0k0/PyASPG): An Abstracted Smart Power-Grid Simulator Built with Python (Private for now)
 
 ### Expertise
 - **Python** (Data Science, Web, General Purpose Applications)
