@@ -10,7 +10,8 @@ I am Javad, a dedicated Graduate Research Assistant at Texas State University an
 
 
 ### Projects
-[Sec-Sea.Com](https://github.com/j0m0k0/j0m0k0.github.io): A Computer Science and Cybersecurity blog by me
+[Sec-Sea](https://github.com/j0m0k0/j0m0k0.github.io): A Computer Science and Cybersecurity blog by me
+
 [PyASPG](https://github.com/j0m0k0/PyASPG): An Abstracted Smart Power-Grid Simulator Built with Python (Private for now)
 
 ### Expertise
