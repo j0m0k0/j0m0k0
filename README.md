@@ -9,10 +9,12 @@ I am Javad, a dedicated Graduate Research Assistant at Texas State University an
 ![Javad's GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=j0m0k0&layout=compact&theme=radical)
 
 
-### Projects
+### Some of My Open-Source Projects
 [Sec-Sea](https://github.com/j0m0k0/j0m0k0.github.io): A Computer Science and Cybersecurity blog by me
 
-[PyASPG](https://github.com/j0m0k0/PyASPG): An Abstracted Smart Power-Grid Simulator Built with Python (Private for now)
+[Py-A-S-P-G](https://github.com/j0m0k0/Py-A-S-P-G): Smart Power-Grid Simulator (Private for now)
+
+[Samanoo](https://github.com/j0m0k0/asdad): A cool vocabulary learning tool (Private for now)
 
 ### Expertise
 - **Python** (Data Science, Web, General Purpose Applications)
