@@ -8,12 +8,6 @@ I am Javad, a dedicated Graduate Research Assistant at Texas State University an
 
 ![Javad's GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=j0m0k0&layout=compact&theme=radical)
 
-
-### Some of My Open-Source Projects
-[Sec-Sea](https://github.com/j0m0k0/j0m0k0.github.io): A Computer Science and Cybersecurity blog by me
-
-[Samanoo](https://github.com/j0m0k0/asdad): A cool vocabulary learning tool (Private for now)
-
 ### Expertise
 - **Python** (Data Science, Web, General Purpose Applications)
 - **Machine Learning / Deep Learning** (Applying ML/DL to solve real-world problems)
