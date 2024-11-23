@@ -4,7 +4,7 @@
 [![Linkedin: Javad Koushyar ](https://img.shields.io/badge/-Javad%20Koushyar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/javad-mokhtari/)](https://www.linkedin.com/in/javad-mokhtari/)
 [![Twitter: Javad Koushyar](https://img.shields.io/twitter/follow/KoushyarAcademy?style=social)](https://twitter.com/KoushyarAcademy)
 ### About Me
-I am Javad, a dedicated Graduate Research Assistant at Texas State University and an experienced software developer with a robust background in both frontend and backend development. I earned my Bachelor's degree in Computer Engineering from Bu-Ali University in Hamedan, Iran. My professional journey has spanned continents and disciplines, including over a year as a Senior Software Engineer at Clanz in Australia, where I also led a team of developers.
+I am Javad, a Graduate Research Assistant at Texas State University and an experienced software developer with a robust background in both frontend and backend development.
 
 ![Javad's GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=j0m0k0&layout=compact&theme=radical)
 
