@@ -6,6 +6,4 @@
 ### About Me
 I am Javad, a Graduate Research Assistant at Texas State University and an experienced software developer.
 
----
-
 Feel free to reach out to me for collaboration or discussions on exciting tech projects!
