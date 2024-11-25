@@ -7,19 +7,6 @@
 I am Javad, a Graduate Research Assistant at Texas State University and an experienced software developer.
 
 ![Javad's GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=j0m0k0&layout=compact&theme=radical)
-
-### Expertise
-- **Python** (Data Science, Web, General Purpose Applications)
-- **Machine Learning / Deep Learning** (Applying ML/DL to solve real-world problems)
-- **Cloud Technologies** (Amazon AWS)
-- **Web Technologies** (React.js, Next.js, Node.js, Express.js, Material UI, Bootstrap, Component-Driven Design, Flexbox)
-- **Databases** (MySQL, MongoDB)
-- **Virtualization** (Docker)
-- **Linux** (Bash Programming, Command Line Proficiency)
-- **Cross-platform Frameworks** (Flutter)
-
-### Current Learning
-- 🌱 Currently diving into **Cybersecurity**
 ---
 
 Feel free to reach out to me for collaboration or discussions on exciting tech projects!
