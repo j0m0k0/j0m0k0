@@ -6,7 +6,6 @@
 ### About Me
 I am Javad, a Graduate Research Assistant at Texas State University and an experienced software developer.
 
-![Javad's GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=j0m0k0&layout=compact&theme=radical)
 ---
 
 Feel free to reach out to me for collaboration or discussions on exciting tech projects!
