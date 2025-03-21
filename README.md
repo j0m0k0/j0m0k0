@@ -3,7 +3,7 @@
 <div align="center">
 
 <a href="https://sec-sea.com/">
-  <img onerror="alert('wtf')" src="https://img.shields.io/badge/Website-red?style=for-the-badge&label=SEC-SEA.COM" alt="Website Badge">
+  <img onerror="alert('wtf')" src="xhttps://img.shields.io/badge/Website-red?style=for-the-badge&label=SEC-SEA.COM" alt="Website Badge">
 </a>
 &nbsp; &nbsp;
 
