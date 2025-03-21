@@ -7,12 +7,12 @@
 </a>
 &nbsp; &nbsp;
 
-<a href="https://sec-sea.com/">
+<a href="https://linkedin.com/in/javad-mokhtari">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&label=Javad%20Mokhtari%20Koushyar" alt="LinkedIn Badge">
 </a>
 &nbsp; &nbsp;
 
-<a href="https://sec-sea.com/">
+<a href="https://x.com/JavadKoushyar">
   <img src="https://img.shields.io/badge/X-black?style=for-the-badge&label=Javad%20Koushyar" alt="X Badge">
 </a>
 
