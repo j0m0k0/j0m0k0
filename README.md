@@ -31,7 +31,7 @@ __-' { |          \
 
 
 ## About Me
-I am a Ph.D. student at Computer Science, interested in Open-source software reliability, CPython, and using AI for making efficient tools.
+I am a Ph.D. student of Computer Science at Texas State University, interested in Open-source software reliability, CPython, and using AI for making efficient tools.
 
 </td>
 </tr>
