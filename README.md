@@ -23,7 +23,7 @@ __-' { |          \
 <td>
 
 ## My Projects
-- [PuReX](https://github.com/j0m0k0/PuReX): A tool for extracting information about pull requests of an open-source repository
+- [PuReX](https://github.com/j0m0k0/PuReX): A tool for extracting information about pull requests
   
 ## Open Source Contributions
 - Gymnasium [1](https://github.com/Farama-Foundation/Gymnasium/pull/1358)  
