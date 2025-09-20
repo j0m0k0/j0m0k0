@@ -1,6 +1,6 @@
 <table>
 <tr>
-<td>
+<!-- <td>
 
 <pre>
    / \__
@@ -11,7 +11,7 @@
 </pre>
 
 </td>
-<td>
+<td> -->
 
 ## My Projects
 - [PuReX](https://github.com/j0m0k0/PuReX): A tool for extracting information about pull requests
