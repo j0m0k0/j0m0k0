@@ -15,8 +15,7 @@
 
 ## About Me
 I am pursuing a Doctoral degree in Computer Science at Texas State University. My research interests include Software
-Supply Chain Reliability, Cyber-Physical Systems, Game Theory and Deep Learning. After hours, you’ll find me at the
-gym, watching movies, playing video games, and making food and drink.
+Supply Chain Reliability, Cyber-Physical Systems, Game Theory and Deep Learning.
 
 <!--
 ## Personal Projects
