@@ -14,8 +14,7 @@
 <td> -->
 
 ## About Me
-I am pursuing a Doctoral degree in Computer Science at Texas State University. My research interests include Software
-Supply Chain Reliability, Cyber-Physical Systems, Game Theory and Deep Learning.
+I’m a 4th-year PhD candidate in the CS department at the Texas State University. My research lies at the intersection of software supply chain, open source software, security, reinforcement learning and agentic AI. I specialize in analyzing the security of emerging threats in software supply chains such as open source software and design efficient defensive models against those threats. By identifying and modeling advanced software supply chain attacks, my goal is to develop practical, high-performance defenses that secure the critical infrastructure of the modern supply chains such as open source software ecosystems, and agentic AI workflows.
 
 <!--
 ## Personal Projects
